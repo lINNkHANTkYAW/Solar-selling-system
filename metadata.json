@@ -1,0 +1,6 @@
+{
+  "name": "ShweSolar ERP — Solar Shop Management & POS System",
+  "description": "Commercial Solar Shop Management, Inventory, POS, Finance, Daily & Monthly Closing, Quotations, and Warranty ERP tailored for Myanmar solar equipment businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
